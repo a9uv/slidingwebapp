@@ -1,11 +1,11 @@
 export const slides = [
   <div key="1" className="text-center w-full">
     <h1 className="text-6xl font-semibold mb-8 tracking-tight">Welcome to Minimal Slides</h1>
-    <p className="text-2xl font-light tracking-tight">Click anywhere or use arrow keys to navigate</p>
+    <p className="text-2xl font-light tracking-tight">Click anywhere, on the carets, or use arrow keys to navigate</p>
   </div>,
   <div key="2" className="w-full">
     <h2 className="text-5xl font-semibold mb-8 text-center tracking-tight">Key Features</h2>
-    <ul className="text-2xl space-y-4 font-light">
+    <ul className="text-2xl space-y-4 ml-30 font-light">
       <li>Minimalist design</li>
       <li>Full-screen slides</li>
       <li>Keyboard navigation</li>
